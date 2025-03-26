@@ -1,10 +1,10 @@
-🚀 ETL dengan Pentaho, OLAP & OLTP, Power BI, dan Sales Prediction dengan LSTM
+#🚀 ETL dengan Pentaho, OLAP & OLTP, Power BI, dan Sales Prediction dengan LSTM
 
-📌 Deskripsi Proyek
+##📌 Deskripsi Proyek
 
 Proyek ini mencakup proses Extract, Transform, Load (ETL) menggunakan Pentaho Data Integration untuk memproses data transaksi penjualan. Data diolah ke dalam skema OLTP dan OLAP, divisualisasikan menggunakan Power BI, serta dilakukan prediksi penjualan menggunakan model LSTM.
 
-🏗 Struktur Proyek
+##🏗 Struktur Proyek
 
 ETL dengan Pentaho: Proses extract, transform, dan load dari sumber data ke dalam database.
 
@@ -14,7 +14,9 @@ Visualisasi dengan Power BI: Dashboard interaktif untuk analisis tren penjualan.
 
 Sales Prediction dengan LSTM: Model deep learning untuk memprediksi penjualan masa depan.
 
-📝 Case Studies
+
+
+##📝 Case Studies
 
 1️⃣ Extract Data dari Sumber
 
@@ -46,7 +48,10 @@ Digunakan dataset historis penjualan. (TBD)
 
 Model dilatih untuk memprediksi tren penjualan dalam 30 hari ke depan. (TBD)
 
-📊 ERD (Entity Relationship Diagram)
+
+
+
+##📊 ERD (Entity Relationship Diagram)
 
 Terdapat dua skema database:
 
@@ -55,7 +60,8 @@ OLTP: Berfokus pada transaksi harian dengan tabel utama seperti transaction, pro
 OLAP: Data warehouse untuk analisis dengan fact table dan dimension tables.
 
 
-💻 Implementasi Teknologi
+
+##💻 Implementasi Teknologi
 
 Pentaho Data Integration
 
@@ -83,7 +89,9 @@ Buka Sales_Dashboard.pbix dengan Power BI Desktop.
 
 Menjalankan Model LSTM
 
-📂 Struktur Folder
+
+
+##📂 Struktur Folder
 
 data/                   # Dataset mentah dan hasil transformasi
 
@@ -103,7 +111,7 @@ README.md               # Dokumentasi proyek ini
 
 
 
-📌 Hasil dan Kesimpulan
+##📌 Hasil dan Kesimpulan
 
 ETL berhasil dilakukan menggunakan Pentaho.
 
